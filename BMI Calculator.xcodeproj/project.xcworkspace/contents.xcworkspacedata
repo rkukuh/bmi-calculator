@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/rkukuh/Documents/XCode/Practices/Ciputra Training/BMI Calculator/BMI Calculator/screenshots">
+   </FileRef>
+   <FileRef
       location = "self:BMI Calculator.xcodeproj">
    </FileRef>
 </Workspace>
