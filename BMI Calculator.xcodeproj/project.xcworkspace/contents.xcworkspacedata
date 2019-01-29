@@ -5,6 +5,9 @@
       location = "group:/Users/rkukuh/Documents/XCode/Practices/Ciputra Training/BMI Calculator/BMI Calculator/screenshots">
    </FileRef>
    <FileRef
+      location = "group:../screenshots">
+   </FileRef>
+   <FileRef
       location = "self:BMI Calculator.xcodeproj">
    </FileRef>
 </Workspace>
